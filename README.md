@@ -1,3 +1,6 @@
+<div align="center">
+
+
 # 💵 US Stock Performance Measurer
 *This script fetches and analyzes the 1-year performance of US-specified stocks, along with Bitcoin and Gold.*
 
@@ -9,6 +12,9 @@
 **Built with the tools and technologies:**
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&style=flat)
+
+
+</div>
 
 ---
 
